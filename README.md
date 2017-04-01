@@ -1,5 +1,7 @@
 # gobble-coffee
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/gobble-livescript.svg)](https://greenkeeper.io/)
+
 Compile LiveScript files with gobble. Creates source maps automatically.
 
 ## Installation
